@@ -1,3 +1,3 @@
 # hello-world
-Initial testing of GitHub
+Initial testing of GitHub;
 Starting programming life any tips?
